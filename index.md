@@ -4,7 +4,15 @@ _Project Manager / Data Analyst based in Taipei, Taiwan_ <br>
 
 [Email](mailto:hsuanhanyang@gmail.com) / [LinkedIn](https://www.linkedin.com/in/hsuan-han-henry-yang/) / [GitHub](https://github.com/henryyang8/)
 
-## Technical Experience
+## Education
+
+**Master of Science** in Analytics - Computational<br>
+[Georgia Institute of Technology](https://www.gatech.edu/) - Atlanta, Georgia, USA _(Jan 2020 - May 2021)_
+
+**Bachelor of Science** double major in Statistics and Economics<br>
+[University of Illinois at Urbana-Champaign](https://illinois.edu/) - Urbana, Illinois, USA _(Aug 2014 - Aug 2017)_
+
+## Work Experience
 
 **Project Manager / Data Analyst** @ [Wistron](https://www.wistron.com/) _(Jul 2018 - Feb 2020)_ <br>
 -	Serve as a cross-functional lead to formulate plan for digital transformation of production site by harvesting billions of data from machines to databases
@@ -32,13 +40,16 @@ _Project Manager / Data Analyst based in Taipei, Taiwan_ <br>
 -	Imported, extracted, transformed and regressed raw data of an aggregated 58 housing features and 5.9 million records
 -	Utilized regression, kNN, decision tree, random forest and neural network to analyze correlation between housing features and price
 
-## Education
-
-**Master of Science** in Analytics - Computational<br>
-[Georgia Institute of Technology](https://www.gatech.edu/) - Atlanta, Georgia, USA _(Jan 2020 - May 2021)_
-
-**Bachelor of Science** double major in Statistics and Economics<br>
-[University of Illinois at Urbana-Champaign](https://illinois.edu/) - Urbana, Illinois, USA _(Aug 2014 - Aug 2017)_
+## Technical Skills
+-	Python (Intermediate)
+-	R (Intermediate)
+-	d3.js (Intermediate)
+-	SQL/PySpark (Intermediate)
+-	MATLAB (Intermediate)
+-	SAS/JMP (Intermediate)
+-	AWS/GCP (Novice)
+-	Azure ML Studio (Novice)
+-	Tableau (Novice)
 
 ## Languages
 
