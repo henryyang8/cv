@@ -23,7 +23,7 @@ _Project Manager / Data Analyst based in Taipei, Taiwan_ <br>
 
 ## Project Experience
 
-**Medxoom Healthcare Services Optimization Study** _(Jan 2021 - May 2021)_ <br>
+**[Medxoom](https://medxoom.com/) Healthcare Services Optimization Study** _(Jan 2021 - May 2021)_ <br>
 - Performed recommendation of providers by studying an aggregated 361 service price and quality attributes for 3,058 providers 
 -	Utilized dimension reduction, resampling, machine learning and deep learning to cluster-then-predict healthcare price and quality with a final prediction accuracy of 77%
 
