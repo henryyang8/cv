@@ -15,11 +15,11 @@ _Project Manager / Data Analyst based in Taipei, Taiwan_ <br>
 ## Work Experience
 
 **Project Manager / Data Analyst** @ [Wistron](https://www.wistron.com/) _(Jul 2018 - Feb 2020)_ <br>
--	Served as a cross-functional lead to formulate plan for digital transformation of production site by harvesting billions of data from machines to databases
--	Collaborated with dev team, IT and ground team to develop and implement company-wide applications to optimize production and data analysis efficiency
--	Used Python and SQL to build data pipeline for analysis and optimization study on manufacturing process
--	Used Tableau and JMP to build data visualization dashboard for efficient manufacturing performance analysis
--	Work in an agile environment to deliver results-oriented sprint review meetings with clients
+-	Served as a cross-functional lead to formulate plan for transformation of manufacturing through digitalization and automation
+-	Collaborated with dev team, IT and ground team to develop and deploy company-wide applications to optimize production and data analysis efficiency
+-	Utilized Python and SQL to build data pipeline for analysis and optimization study on manufacturing process
+-	Employed Tableau and JMP to build data visualization dashboard for efficient manufacturing performance analysis
+-	Conducted applications usability study and delivered results-oriented sprint review meetings with clients
 
 ## Project Experience
 
