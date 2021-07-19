@@ -24,10 +24,10 @@ _Project Manager / Data Analyst based in Taipei, Taiwan_ <br>
 ## Project Experience
 
 **[Medxoom](https://medxoom.com/) Healthcare Services Optimization Study** _(Jan 2021 - May 2021)_ <br>
-- Performed recommendation of providers by studying an aggregated 361 service price and quality attributes for 3,058 providers 
+- Collaborated with fintech company Medxoom to perform recommendation of healthcare providers by studying an aggregated 361 service price and quality attributes for 3,058 hospitals 
 -	Utilized dimension reduction, resampling, machine learning and deep learning to cluster-then-predict healthcare price and quality with a final prediction accuracy of 77%
 
-**Trip Planner Web Application using Google Maps API** _(Sep 2020 - Dec 2020)_ <br>
+**[Trip Planner Web Application](https://touristapp59.herokuapp.com/) using Google Maps API** _(Sep 2020 - Dec 2020)_ <br>
 -	Constructed front-end interface with options for interactive barchart, textbox, dropdown list, export query history and options to visualize on Google Maps using html and d3.js
 -	Computed back-end algorithm to scrape data from multiple Maps API, process and feed them to scoring algorithm on each query
 -	Performed front-end and back-end integration using pyFlask
@@ -36,7 +36,7 @@ _Project Manager / Data Analyst based in Taipei, Taiwan_ <br>
 -	Performed classification of 698 images corresponding to multiple angles of a face using isomap algorithm
 -	Computed exploratory face recognition score with PCA reduced images using cosine similarity
 
-**Zillow Housing Price Valuation** _(Sep 2020 - Nov 2020)_ <br>
+**[Zillow](https://www.zillow.com) Housing Price Valuation** _(Sep 2020 - Nov 2020)_ <br>
 -	Imported, extracted, transformed and regressed raw data of an aggregated 58 housing features and 5.9 million records
 -	Utilized regression, kNN, decision tree, random forest and neural network to analyze correlation between housing features and price
 
