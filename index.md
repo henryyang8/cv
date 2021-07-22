@@ -43,8 +43,8 @@ _Project Manager / Data Analyst based in Taipei, Taiwan_ <br>
 ## Technical Skills
 -	Python (Intermediate)
 -	R (Intermediate)
--	d3.js (Intermediate)
 -	SQL/PySpark (Intermediate)
+-	d3.js (Intermediate)
 -	MATLAB (Intermediate)
 -	SAS/JMP (Intermediate)
 -	AWS/GCP (Novice)
